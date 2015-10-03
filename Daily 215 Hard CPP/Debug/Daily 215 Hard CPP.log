@@ -1,0 +1,17 @@
+﻿Build started 10/3/2015 10:46:46 AM.
+     1>Project "c:\Users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CPP\Daily 215 Hard CPP\Daily 215 Hard CPP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Daily 215 Hard CPP.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Daily 215 Hard CPP.cpp"
+         Daily 215 Hard CPP.cpp
+     1>c:\users\tz6ysq\documents\visual studio 2015\projects\daily 215 hard cpp\daily 215 hard cpp\daily 215 hard cpp.cpp(27): error C2653: 'abi': is not a class or namespace name
+         c:\users\tz6ysq\documents\visual studio 2015\projects\daily 215 hard cpp\daily 215 hard cpp\daily 215 hard cpp.cpp(37): note: see reference to function template instantiation 'void print_truth<char[13]>(const std::string &,const T (&))' being compiled
+                 with
+                 [
+                     T=char [13]
+                 ]
+     1>c:\users\tz6ysq\documents\visual studio 2015\projects\daily 215 hard cpp\daily 215 hard cpp\daily 215 hard cpp.cpp(27): error C3861: '_cxa_demangle': identifier not found
+     1>Done Building Project "c:\Users\tz6ysq\documents\visual studio 2015\Projects\Daily 215 Hard CPP\Daily 215 Hard CPP\Daily 215 Hard CPP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.89
